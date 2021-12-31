@@ -11,7 +11,7 @@ I am doing it using:
 ---
 There are 7 ready-made scenes:
 - Skins
-![Skins](https://github.com/namknf/the-farm/Assets/main/farm1.png)
+![Skins](https://github.com/namknf/the-farm/raw/main/Assets/farm1.png)
 - GreenHouse
 - Learning
 - Map
