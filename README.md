@@ -3,7 +3,7 @@
 **My big game with different quests and locations. Based on Stardew Valley game.**
 ---
 I am doing it using:
-1. Unity
+1. Unity 2D
 2. C#
 3. Aseprite
 4. Piskel
