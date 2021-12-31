@@ -14,7 +14,9 @@ There are 7 ready-made scenes:
 ![Skins](https://github.com/namknf/the-farm/raw/main/Assets/farm1.png)
 - GreenHouse
 - Learning
+![Learning](https://github.com/namknf/the-farm/raw/main/Assets/farm2.png)
 - Map
 - Mountains
+![Mountains](https://github.com/namknf/the-farm/raw/main/Assets/farm3.png)
 - River
 - Shed
