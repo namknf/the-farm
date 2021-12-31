@@ -11,6 +11,7 @@ I am doing it using:
 ---
 There are 7 ready-made scenes:
 - Skins
+![Иллюстрация к проекту](https://github.com/namknf/the-farm/Assets/main/image/farm1.png)
 - GreenHouse
 - Learning
 - Map
